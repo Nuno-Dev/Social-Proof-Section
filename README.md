@@ -3,8 +3,8 @@ Responsive single landing page Mini Project
 
 Desktop:
 
-<img src="Website Previews/desktop.png">
+<img src="Website Previews/Desktop.png">
 
 Mobile:
 
-<img src="Website Previews/mobile.png">
+<img src="Website Previews/Mobile.png">
